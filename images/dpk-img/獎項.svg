@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="208px" height="239px" viewBox="0 0 208 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16044) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 6 + Rectangle 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.2668898%" id="linearGradient-1">
+            <stop stop-color="#4C1D72" offset="0%"></stop>
+            <stop stop-color="#9E3DE0" offset="49.9800702%"></stop>
+            <stop stop-color="#331350" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-549.000000, -162.000000)">
+            <g id="Rectangle-6-+-Rectangle-7" sketch:type="MSLayerGroup" transform="translate(549.000000, 162.000000)">
+                <rect id="Rectangle-6" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="208" height="239"></rect>
+                <rect id="Rectangle-7" fill="#33333C" sketch:type="MSShapeGroup" x="17" y="20" width="176" height="199"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

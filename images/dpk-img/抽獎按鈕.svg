@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="228px" height="228px" viewBox="0 0 228 228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16044) - http://www.bohemiancoding.com/sketch -->
+    <title>merrybtn +  開始抽獎 + Start!</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FDBE4C" offset="0%"></stop>
+            <stop stop-color="#F88925" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F99E07" offset="0%"></stop>
+            <stop stop-color="#F88925" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-262.000000, -162.000000)">
+            <g id="merrybtn-+--開始抽獎-+-Start!" sketch:type="MSLayerGroup" transform="translate(262.000000, 162.000000)">
+                <g id="merrybtn" sketch:type="MSShapeGroup">
+                    <circle id="Oval-3" fill="#F88925" cx="114" cy="114" r="114"></circle>
+                    <circle id="Oval-3-Copy" fill="url(#linearGradient-1)" cx="114" cy="114" r="108"></circle>
+                    <ellipse id="Oval-3-Copy-2" fill="#FEFAC4" cx="114.093113" cy="114.093113" rx="89.8375432" ry="89.8375432"></ellipse>
+                    <ellipse id="Oval-3-Copy-3" fill="url(#linearGradient-2)" cx="114.350006" cy="114.350006" rx="84.4831351" ry="84.4831351"></ellipse>
+                </g>
+                <text id="開始抽獎" sketch:type="MSTextLayer" font-family="DFPZongYiBold-B5" font-size="36" font-weight="bold" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="42" y="110">開始抽獎</tspan>
+                </text>
+                <text id="Start!" sketch:type="MSTextLayer" font-family="DFPZongYiBold-B5" font-size="36" font-weight="bold" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="57.125" y="146">Start!</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,57 @@
+/*----reset----*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent;
+/*font-family: Helvetica, Arial, 'LiHei Pro', \5FAE\8EDF\6B63\9ED1\9AD4, '微軟正黑體', sans-serif;*/
+font-family: Helvetica, Arial, 'LiHei Pro', '微軟正黑體', sans-serif;
+}
+/* margin bitween sections */
+.marb1 {margin-bottom: 10px;}
+.marb2 {margin-bottom: 20px;}
+.marb3 {margin-bottom: 30px;}
+.marb4 {margin-bottom: 40px;}
+.marb5 {margin-bottom: 50px;}
+.marb6 {margin-bottom: 60px;}
+.marb7 {margin-bottom: 70px;}
+.marb8 {margin-bottom: 80px;}
+.marb9 {margin-bottom: 90px;}
+.marb10 {margin-bottom: 100px;}
+.marb11 {margin-bottom: 110px;}
+.marb12 {margin-bottom: 120px;}
+.mart1 {margin-top: 10px;}
+.mart2 {margin-top: 20px;}
+.mart3 {margin-top: 30px;}
+.mart4 {margin-top: 40px;}
+.mart5 {margin-top: 50px;}
+.mart6 {margin-top: 60px;}
+.mart7 {margin-top: 70px;}
+.mart8 {margin-top: 80px;}
+.mart9 {margin-top: 90px;}
+.mart10 {margin-top: 100px;}
+.mart11 {margin-top: 110px;}
+.mart12 {margin-top: 120px;}
+.mart13 {margin-top: 130px;}
+.mart14 {margin-top: 140px;}
+.mart15 {margin-top: 150px;}
+.mart16 {margin-top: 160px;}
+.mart17 {margin-top: 170px;}
+.mart18 {margin-top: 180px;}
+.mart19 {margin-top: 190px;}
+.mart20 {margin-top: 200px;}
+
+/* Clear Fix Styles */
+.clearfix:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+
+
+

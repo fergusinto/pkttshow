@@ -1,0 +1,73 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background: #f1dbed url(/images/BG.jpg) no-repeat top center;
+    background-size: cover;
+    font-family: Arial, 'LiHei Pro', '微軟正黑體', sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #252525;
+}
+body.index {
+    background: #f1dbed;
+    background-image: none;
+    background-size: cover;
+    font-family: Arial, 'LiHei Pro', '微軟正黑體', sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #252525;
+}
+ul { padding: 0; list-style-type: none; }
+a {
+    color: #252525;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+a:hover {
+    color: #794ca8;
+    opacity: 1;
+    text-decoration: none;
+}
+img {
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+a:hover img {
+    opacity: 0.8;
+}
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1200px) {
+}
+@media only screen and (max-width: 1024px) {
+}
+@media only screen and (max-width: 990px) {
+}
+@media only screen and (max-width: 790px) {
+}
+/*iPhone6 plus以下*/
+@media only screen and (max-width: 415px) {
+}
+/*iPhone6以下*/
+@media only screen and (max-width: 375px) {
+}
+/*iPhone5以下*/
+@media only screen and (max-width: 320px) {
+}

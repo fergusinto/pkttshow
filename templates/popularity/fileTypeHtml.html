@@ -1,0 +1,5 @@
+<li class="pop-nav-img {{fileType.fileTypeActive}}" ng-repeat="fileType in fileTypes track by $index">
+    <a ng-href="{{fileType.fileTypeUrl}}">
+        <font ng-bind="fileType.fileTypeName"></font>
+    </a>
+</li>

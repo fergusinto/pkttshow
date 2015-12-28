@@ -1,0 +1,49 @@
+body {
+    background: #000;
+}
+.award {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.5;
+    max-width: 400px;
+    color: #FFF;
+}
+.note {
+	margin-top: 20px;
+}
+.account {
+	text-align: center;
+}
+.account span {
+	display: inline-block;
+	text-align: right;
+    width: 100px;
+    /*margin-left: -30px;*/
+}
+.ID.no {
+    background-color: pink;
+}
+
+.ID.yes {
+    background-color: lightgreen;
+}
+.submit {
+  margin: auto;
+  width: 124px;
+  height: 35px;
+  color: #FFF;
+  line-height: 35px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  background: #a24be1;
+  transition: all 250ms;
+}
+
+/*.submit:hover {
+  box-shadow: 0 15px 10px -10px rgba(4, 4, 4, 0.5);
+}
+
+.submit:active {
+  box-shadow: 1px 1px 4px rgba(4, 4, 4, 0.3);
+}*/

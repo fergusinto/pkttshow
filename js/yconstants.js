@@ -1,0 +1,15 @@
+var Constants = {
+    urlPath: 'http://pk.ttshow.tw',
+    apiPath: 'http://private-706dd-ttshowpkapi.apiary-mock.com/api',
+    dirPath: '',
+    indexPage: '/mindex',
+    channelPage: '/mchannel',
+    popularityPage: '/mpopularity',
+    loginPage: '/mlogin',
+    contentPage: '/mcontent',
+    searchPage: '/msearch',
+    myitemPage: '/mmyitem',
+    tpermissionPage: '/mtpermission',
+    merrygamePage: '/mmerrygame',
+    awardPage: '/maward',
+}
